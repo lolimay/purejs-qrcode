@@ -1,12 +1,8 @@
 {
-  "name": "qrcode",
-  "description": "QRCode / 2d Barcode api with both server side and client side support using canvas",
-  "version": "1.5.0",
-  "author": "Ryan Day <soldair@gmail.com>",
-  "contributors": [
-    "Vincenzo Greco <greco.vincenzo@gmail.com>",
-    "Linus Unnebäck <linus@folkdatorn.se>"
-  ],
+  "name": "purejs-qrcode",
+  "description": "QRCode / 2d Barcode api with both server side and client side (no need canvas support)",
+  "version": "0.1.0",
+  "author": "ShiqiMei <shiqi.mei@lolimay.cn>",
   "keywords": [
     "qr",
     "code",
@@ -41,6 +37,7 @@
     "dijkstrajs": "^1.0.1",
     "encode-utf8": "^1.0.3",
     "pngjs": "^5.0.0",
+    "pureimage": "^0.3.8",
     "yargs": "^15.3.1"
   },
   "devDependencies": {

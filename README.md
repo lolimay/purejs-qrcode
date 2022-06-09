@@ -1,4 +1,7 @@
-# node-qrcode
+# purejs-qrcode
+
+This is a modified version of [node-qrcode](https://github.com/soldair/node-qrcode.git) that **doesn't require Canvas support on client side.**
+
 > QR code/2d barcode generator.
 
 [![Travis](https://img.shields.io/travis/soldair/node-qrcode.svg?style=flat-square)](http://travis-ci.org/soldair/node-qrcode)
