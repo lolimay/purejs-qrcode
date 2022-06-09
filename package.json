@@ -1,7 +1,7 @@
 {
   "name": "purejs-qrcode",
   "description": "QRCode / 2d Barcode api with both server side and client side (no need canvas support)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "ShiqiMei <shiqi.mei@lolimay.cn>",
   "keywords": [
     "qr",
